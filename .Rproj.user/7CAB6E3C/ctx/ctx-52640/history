@@ -1,0 +1,5 @@
+library(shinyML)
+shinyML_classification(data = iris,y = "Species",framework = "h2o")
+shinyML_classification(data = iris,y = "Species",framework = "h2o")
+shinyML_classification(data = iris,y = "Species",framework = "h2o")
+shinyML_classification(data = iris,y = "Species",framework = "h2o")
