@@ -1,4 +1,4 @@
-Package: shinyML_LIT
+Package: shinyML-DSWE
 Type: Package
 Title: Compare Supervised Machine Learning Models Using Shiny App
 Version: 1.0.1

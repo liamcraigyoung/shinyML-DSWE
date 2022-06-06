@@ -3,16 +3,16 @@
     "path": "~/Documents/GitHub/shinyML-DSWE/DESCRIPTION",
     "project_path": "DESCRIPTION",
     "type": "dcf",
-    "hash": "648358185",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1654511051930.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,20",
+        "cursorPosition": "0,21",
         "scrollLine": "0"
     },
     "folds": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1654511100533,
+    "last_content_update": 1654511151459,
     "read_only": false,
     "read_only_alternatives": []
 }
